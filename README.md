@@ -1,6 +1,4 @@
-This is a Hacker News reader built as a PWA (Progressive Web App) available online at [https://www.techiediaries.com/IonicHN-PWA](https://www.techiediaries.com/IonicHN-PWA).
-
-Read  more [pwa tutorials](https://www.techiediaries.com/tag/pwa) 
+This is a Hacker News reader built as a PWA (Progressive Web App)
 
 ## How to use this template
 
